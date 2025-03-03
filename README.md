@@ -32,7 +32,7 @@ Once your plugin will load, it will create a file `EXILED/Configs/blockednick.ym
 3. Restart the server.  
 
 ## Commands
-
+*Use the (~) game-console for usage.*
 - `.nick clist` - Show a list of all available commands.  
 - `.nick <name>` - Change your nickname.  
 - `.nick reset` - Reset your nickname to your original or last saved nickname.  
