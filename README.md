@@ -1,7 +1,8 @@
-[![SimpleNick](https://imgur.com/a/EWHOHj1)
-
 <h1 align="center">EXILED SimpleNick</h1>
-<h3 align="center"><a href="https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/">SCP: Secret Laboratory</a> plugin allowing to easily change your/others ingame name.</h3>
+<p align="center">
+<img src="https://i.imgur.com/aeuFgzb.png" alt="SimpleNick" width="400">
+</p>
+<h3 align="center">A <a href="https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/">SCP: Secret Laboratory</a> plugin allowing to easily change your/others ingame name.</h3>
 <div align="center">
  
 </div>
