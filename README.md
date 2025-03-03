@@ -25,11 +25,12 @@ Once your plugin will load, it will create a file `EXILED/Configs/blockednick.ym
 ## Installation
 
 1. Download the latest release of `NickPlugin.dll`.  
-2. Place the `.dll` file into the `.config/EXILED/plugins` folder of your SCP: SL server.  
+2. Place the `.dll` file into the `.config/EXILED/Plugins` folder of your SCP: SL server.  
 3. Restart the server.  
 
 ## Commands
 
+- `.nick clist` - Show a list of all available commands.  
 - `.nick <name>` - Change your nickname.  
 - `.nick reset` - Reset your nickname to your original or last saved nickname.  
 - `.nick {playerid} <name/reset/exclude/include>` - Manage another player’s nickname.  
@@ -44,4 +45,4 @@ Once your plugin will load, it will create a file `EXILED/Configs/blockednick.ym
 
 ## Configuration
 
-Blocked players are saved in `blockednick.yml` inside the server's `Configs` folder.  
+Blocked players are saved in `blockednick.yml` inside the server's `.config/EXILED/Configs` folder.  
