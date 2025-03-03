@@ -25,7 +25,7 @@ Once your plugin will load, it will create a file `EXILED/Configs/blockednick.ym
 ## Installation
 
 1. Download the latest release of `NickPlugin.dll`.  
-2. Place the `.dll` file into the `plugins` folder of your SCP: SL server.  
+2. Place the `.dll` file into the `.config/EXILED/plugins` folder of your SCP: SL server.  
 3. Restart the server.  
 
 ## Commands
