@@ -1,4 +1,4 @@
-<h1 align="center">EXILED Simple .nick</h1>
+<h1 align="center">EXILED SimpleNick</h1>
 <h3 align="center"><a href="https://store.steampowered.com/app/700330/SCP_Secret_Laboratory/">SCP: Secret Laboratory</a> plugin allowing to easily change your ingame name.</h3>
 <div align="center">
  
